@@ -1,4 +1,6 @@
-This was the final project for (Front-end Developer course)[https://www.algebra.hr/cjelozivotno-obrazovanje/programi/front-end-developer/] at (Algebra University College)[https://www.algebra.hr/].
+# Final project for Algebra's Front-end Developer course: Make a web chat app using Scaledrone API
+
+This was the final project for [Front-end Developer course](https://www.algebra.hr/cjelozivotno-obrazovanje/programi/front-end-developer/) at [Algebra University College](https://www.algebra.hr/).
 
 The task is to write a web chat application. The technologies for creating the application are arbitrary, it is only important that with the chosen technologies it is possible to realize all the conditions of the functional specification.
 
@@ -11,7 +13,7 @@ The mentioned chat application should:
 - connect to the Scaledrone service and successfully simulate the conversation of all active users
 - be available through a public GitHub account
 
-Used technologies: HTML, CSS, React, Scaledrone API, gh-pages.
+Used technologies: _HTML, CSS, JS, React, Scaledrone API, gh-pages_.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
