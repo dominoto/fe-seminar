@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fe-seminar/static/css/main.93fd7a7b.css",
-    "main.js": "/fe-seminar/static/js/main.b7530af3.js",
+    "main.js": "/fe-seminar/static/js/main.931420d5.js",
     "static/js/787.9eefda36.chunk.js": "/fe-seminar/static/js/787.9eefda36.chunk.js",
     "index.html": "/fe-seminar/index.html",
     "main.93fd7a7b.css.map": "/fe-seminar/static/css/main.93fd7a7b.css.map",
-    "main.b7530af3.js.map": "/fe-seminar/static/js/main.b7530af3.js.map",
+    "main.931420d5.js.map": "/fe-seminar/static/js/main.931420d5.js.map",
     "787.9eefda36.chunk.js.map": "/fe-seminar/static/js/787.9eefda36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93fd7a7b.css",
-    "static/js/main.b7530af3.js"
+    "static/js/main.931420d5.js"
   ]
 }
